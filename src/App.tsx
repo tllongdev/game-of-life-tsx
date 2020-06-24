@@ -129,7 +129,7 @@ const App: React.FC = () => {
 												Math.floor(Math.random() * 600) + 400
 										  })`
 										: undefined,
-									border: 'solid 1px black',
+									border: 'solid 1px #DCDCDC',
 								}}
 							/>
 						))
