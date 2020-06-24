@@ -1,2 +1,2 @@
 # Conway's Game of Life 
-## ...coded in Typescript with React Hooks :)
+## coded in Typescript with React Hooks :)
